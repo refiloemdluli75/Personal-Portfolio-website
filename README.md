@@ -45,5 +45,5 @@ This portfolio is created to demonstrate my readiness for internship and graduat
 
 Author:  
 Buhle Refiloe Mdluli  
-Final-year Diploma in Information Technology student  
+Final-year student in Information Technology  
 Aspiring Business Analyst 
